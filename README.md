@@ -3,6 +3,8 @@
 Mobile job management platform for field service technicians. Built with Flutter (iOS + Android) and Django.
 
 ---
+## Demo Video
+https://jumpshare.com/folder/qJhJZVTw1AXlYmtJssAO
 
 ## Quick Start (Docker — recommended)
 
@@ -11,7 +13,7 @@ Mobile job management platform for field service technicians. Built with Flutter
 ```bash
 # 1. Clone and enter project
 git clone <repo-url>
-cd fieldpulse
+cd backend
 
 # 2. Start backend (Django + PostgreSQL + MinIO)
 docker compose up --build
