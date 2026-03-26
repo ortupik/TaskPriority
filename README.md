@@ -36,7 +36,7 @@ flutter run --dart-define=BASE_URL=http://localhost:8000  # iOS simulator
 
 # 5. Log in with seeded credentials
 #    Email:    tech1@fieldpulse.dev
-#    Password: tech123
+#    Password: techie123
 ```
 
 **MinIO Console** (file storage UI): http://localhost:9001  
